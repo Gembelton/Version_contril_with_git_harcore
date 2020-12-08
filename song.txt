@@ -7,3 +7,5 @@ first_first_string
 first_second_string
 first_third_string
 first_fourtn_string
+
+for_first-commit_in_feature_branch
