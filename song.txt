@@ -9,3 +9,4 @@ first_third_string
 first_fourtn_string
 
 for_first-commit_in_feature_branch
+for_seccond_commit_in_feature_branch
